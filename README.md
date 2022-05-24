@@ -5,9 +5,7 @@
 # Running any of the scripts will open a prompt to select the directory where data files are saved.
 # Installation + run-time are neglible on a standard PC
 
-*All analyses make use of:
-i. Statistics and Machine Learning Toolbox
-ii. Optimization Toolbox
+*All analyses make use of: Statistics and Machine Learning Toolbox AND/OR Optimization Toolbox
 ---------------------------------------
 I. Scripts
 A. psychometricAnalysis.m
