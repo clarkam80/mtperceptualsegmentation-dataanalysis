@@ -4,5 +4,4 @@
 # Include directory with scripts/functions in your Matlab path (cf. https://www.mathworks.com/matlabcentral/answers/78888-set-path-or-add-path-in-matlab)
 # Running any of the scripts will open a prompt to select the directory where data files are saved.
 # Installation + run-time are neglible on a standard PC
-
-*All analyses make use of: Statistics and Machine Learning Toolbox AND/OR Optimization Toolbox
+# *All analyses make use of: Statistics and Machine Learning Toolbox AND/OR Optimization Toolbox
